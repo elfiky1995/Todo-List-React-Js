@@ -7,7 +7,6 @@ React TO-DO List Application using vitejs https://vitejs.dev/
 <br>
 Is basically Useful Application for Remembering your daily Task & Chores, which every person do in his daily life.
 <br>
-<b>Technologies</b> I Used to build this App (HTML, CSS & Javascript).
 <br><br>
 HOPE U LIKE THIS PROJECT ♥
 <br>
