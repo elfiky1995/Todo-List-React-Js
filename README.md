@@ -1,5 +1,5 @@
 # To-Do-List-Application-
-JavaScript TO-DO List Application
+React TO-DO List Application using vitejs https://vitejs.dev/
 <br><br>
 <b>Live Demo :</b> https://fikytodo.netlify.app/
 <br><br>
